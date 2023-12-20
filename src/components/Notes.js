@@ -4,9 +4,9 @@ const Notes = () => {
     return (
         <div className="container my-3">
             <h2>Your Notes</h2>
-            {notes.map((note) => {
+            {/* {notes.map((note) => {
                 return note.title;
-            })}
+            })} */}
         </div>
     )
 }
