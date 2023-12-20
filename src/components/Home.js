@@ -1,5 +1,9 @@
 import React, { useContext } from 'react'
 import noteContext from '../context/notes/noteContext'
+<<<<<<< Updated upstream
+=======
+import Notes from './Notes';
+>>>>>>> Stashed changes
 
 const Home = () => {
     const context = useContext(noteContext)
