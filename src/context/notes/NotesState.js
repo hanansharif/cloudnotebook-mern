@@ -11,6 +11,60 @@ const NoteState = (props) => {
             "tag": "personal",
             "date": "2023-11-28T19:23:45.909Z",
             "__v": 0
+        },
+        {
+            "_id": "658477df34b1cb4f22436f1d",
+            "user": "656590fe1ec33daee3ae2ce3",
+            "title": "My Title",
+            "description": "Please wake up early",
+            "tag": "personal",
+            "date": "2023-12-21T17:37:35.789Z",
+            "__v": 0
+        },
+        {
+            "_id": "658477df34b1cb4f22436f1d",
+            "user": "656590fe1ec33daee3ae2ce3",
+            "title": "My Title",
+            "description": "Please wake up early",
+            "tag": "personal",
+            "date": "2023-12-21T17:37:35.789Z",
+            "__v": 0
+        },
+        {
+            "_id": "658477df34b1cb4f22436f1d",
+            "user": "656590fe1ec33daee3ae2ce3",
+            "title": "My Title",
+            "description": "Please wake up early",
+            "tag": "personal",
+            "date": "2023-12-21T17:37:35.789Z",
+            "__v": 0
+        },
+        {
+            "_id": "658477df34b1cb4f22436f1d",
+            "user": "656590fe1ec33daee3ae2ce3",
+            "title": "My Title",
+            "description": "Please wake up early",
+            "tag": "personal",
+            "date": "2023-12-21T17:37:35.789Z",
+            "__v": 0
+        },
+        {
+            "_id": "658477df34b1cb4f22436f1d",
+            "user": "656590fe1ec33daee3ae2ce3",
+            "title": "My Title",
+            "description": "Please wake up early",
+            "tag": "personal",
+            "date": "2023-12-21T17:37:35.789Z",
+            "__v": 0
+        },
+        {
+            "_id": "658477df34b1cb4f22436f1d",
+            "user": "656590fe1ec33daee3ae2ce3",
+            "title": "My Title",
+            "description": "Please wake up early",
+            "tag": "personal",
+            "date": "2023-12-21T17:37:35.789Z",
+            "__v": 0
         }
     ]
     const [notes, setNotes] = useState(notesInitial)
