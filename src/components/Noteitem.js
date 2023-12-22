@@ -9,8 +9,8 @@ const Noteitem = (props) => {
                     {/* <div className="d-flex align-items-center"> */}
                     <div className="d-flex">
                         <h5 className="col-9 card-title">{note.title}</h5>
-                        <i class="far fa-trash-alt mx-2"></i>
-                        <i class="fas fa-edit mx-2"></i>
+                        <i className="far fa-trash-alt mx-2"></i>
+                        <i className="fas fa-edit mx-2"></i>
                     </div>
                     <p className="card-text">{note.description}</p>
                 </div>
